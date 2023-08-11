@@ -1,0 +1,6 @@
+// Required
+@import "../node_modules/bootstrap/scss/functions";
+// @import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "./utils/variables";
+@import "bootstrap"; //不太理解為何還要引入bootstrap
